@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <ul> 💻 I love to code, make scalable, optimised and robust apps using advanced refactoring and clean coding concepts. </ul>
 <ul> ✨ I am also interested and currently involved in learning modern technologies such as DataScience😎, Artificial Intelligence🤖 and in all those that might come in future 😁</ul>
 <ul> 🌱 I have recently done Bachelor’s degree in Information Technology from the Government College University, Faisalabad Batch (2016-2020). </ul>
-<ul> ⚡️ I am a Junior Software Developer - Desktop/Web developer with a good grip on basic front-end development technologies including HTML5, CSS3, JavaScript, MVC, WPF, Windows Forms along with grip on backend framework .NET, languages such as C#, C++, C along with DataBase languages like SQl. </ul>
+<ul> ⚡️ I am a Junior Software Developer - Desktop/Web developer with a good grip on basic front-end development technologies including HTML5, CSS3, JavaScript, MVC, WPF, Windows Forms along with grip on backend framework .NET, languages such as C#, C++, C along with DataBase languages like SQL and ORACLE. </ul>
 <ul> 🛰 Learning with everyday and adding new things into my memory banks.🏙 </ul>
 </list>
 </p>
