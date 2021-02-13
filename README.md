@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <ul> ✨ Former Co-founder at <a href = "https://www.facebook.com/SmarPVS">SMART RE (Providing control over Solar Grid with ease of IT.)</a>.</ul>
     <ul> 🔭 2nd Runner up in <a href = "https://www.facebook.com/SmarPVS/photos/a.107016540782723/107017530782624">GOOGLE for Startups/StartUp Grind</a>.</ul>
     <ul> 💻 Fast Coder, moderator at <a href = "https://discord.com/channels/612170980718280724/613595782116933651">Shadow Syndicate</a>.</ul>
+    <ul> 🤝 Contributed in different open source projects in <a href = "https://summerofcode.withgoogle.com/about/">GOOGLE Summer of Code (GSoc)</a>.</ul>
     <ul> 🚀 Approved FYP Funding from <a href = "https://drive.google.com/file/d/1zqAjIFk0ynvJS15RNdIp--D8FUSG161L/view?usp=sharing">IGNITE(National Grassroot Research Initiative Funding Pakistan)</a>.</ul>
   </list>
 </p>
