@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I am Ali Raza</h1>
-<h3 align="center"> A Junior Level Software Developer  from Pakistan</h3>
+<h1 align="center">I am Ali Raza</h1>
+<h3 align="center">A Junior Level Software Developer from Pakistan</h3>
 
-# Who am I? 😄
+# Who am I? 🤔
 <p>
 <list>
 <ul> 💻 I love to code, make scalable, optimised and robust apps using advanced refactoring and clean coding concepts. </ul>
@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="MySQL" width="26px" src="https://timebusinessnews.com/wp-content/uploads/MySQL-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" />
 <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
-<div></div>
-
+<br>
 
 ### Github Stats: 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AliRaza954&show_icons=true&locale=en" alt="AliRaza954" /></p>
 
 ### Connect with me:
