@@ -43,23 +43,24 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C#" width="26px" src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667" />
-<img align="left" alt="ASP.NET" width="26px" src="https://a43d55f6a02c4be185ce-9cfa4cf7c673a59966ad8296f4c88804.ssl.cf3.rackcdn.com/UsersOnline/ASP-net-logo.png" />
-<img align="left" alt="SQL" width="26px" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" />
-<img align="left" alt="Git" width="26px" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" />
-<img align="left" alt=".NET" width="26px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072015/ms-.net-framework.jpg?itok=_sHbgY_h" />
-<img align="left" alt="Visual Studio Community" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="C#" width="56px" src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667" />
+<img align="left" alt="ASP.NET" width="56px" src="https://a43d55f6a02c4be185ce-9cfa4cf7c673a59966ad8296f4c88804.ssl.cf3.rackcdn.com/UsersOnline/ASP-net-logo.png" />
+<img align="left" alt="SQL" width="56px" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" />
+<img align="left" alt="Git" width="56px" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" />
+<img align="left" alt=".NET" width="56px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072015/ms-.net-framework.jpg?itok=_sHbgY_h" />
+<img align="left" alt="Visual Studio Community" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" />
+<img align="left" alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br>
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
-<img align="left" alt="MySQL" width="26px" src="https://timebusinessnews.com/wp-content/uploads/MySQL-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" />
-<img align="left" alt="Raspberry Pi" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
-<img align="left" alt="ARM-Devices" width="26px" src="https://scx2.b-cdn.net/gfx/news/2014/armlogo.jpg" />
+<img align="left" alt="C++" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="C" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+<img align="left" alt="MySQL" width="56px" src="https://timebusinessnews.com/wp-content/uploads/MySQL-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" />
+<img align="left" alt="Raspberry Pi" width="56px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
+<img align="left" alt="ARM-Devices" width="56px" src="https://scx2.b-cdn.net/gfx/news/2014/armlogo.jpg" />
 <br><br><br>
+<br><br>
 
 ### Github Stats: 
 
