@@ -53,9 +53,13 @@ Here are some ideas to get you started:
 <img align="left" alt=".NET" width="26px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072015/ms-.net-framework.jpg?itok=_sHbgY_h" />
 <img align="left" alt="Visual Studio Community" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MySQL" width="26px" src="https://timebusinessnews.com/wp-content/uploads/MySQL-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" />
-<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 <br>
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+<img align="left" alt="MySQL" width="26px" src="https://timebusinessnews.com/wp-content/uploads/MySQL-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" />
+<img align="left" alt="Raspberry Pi" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
+<img align="left" alt="ARM-Devices" width="26px" src="https://scx2.b-cdn.net/gfx/news/2014/armlogo.jpg" />
+<br><br><br>
 
 ### Github Stats: 
 
