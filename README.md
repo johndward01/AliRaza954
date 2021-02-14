@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="56px" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" />
 <img align="left" alt=".NET" width="56px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072015/ms-.net-framework.jpg?itok=_sHbgY_h" />
 <img align="left" alt="Visual Studio Community" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" />
-<img align="left" alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <br>
 <img align="left" alt="C++" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="C" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
