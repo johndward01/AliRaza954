@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <!--<p align="left">-->
-<a href="https://twitter.com/aliraza956" target="blank"><img align="center" src="https://www.designbust.com/download/635/png/twitter_logo_transparent_background512.png" alt="aliraza956" height="50" width="50" />Twitter</a>
+<a href="https://twitter.com/aliraza956" target="blank"><img align="center" src="https://www.designbust.com/download/635/png/twitter_logo_transparent_background512.png" alt="aliraza956" height="50" width="50" />Twitter</a><br>
 <a href="https://www.linkedin.com/in/aliraza-ali954/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH94_LS9K1C2L1VyB9EHUX7FyhnlAsYmwsHw&usqp=CAU" alt="aliraza-ali954/" height="30" width="30" /> LinkedIn</a>
 <!--</p>-->
