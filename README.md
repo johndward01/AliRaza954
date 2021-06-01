@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <ul> 💻 Fast Coder, moderator at <a href = "https://discord.com/channels/612170980718280724/613595782116933651">Shadow Syndicate</a>.</ul>
     <ul> 🤝 Contributed in a project of <a href = "https://ceph.io/gsoc-2020/">"CEPH"</a> at <a href = "https://summerofcode.withgoogle.com/archive/2020/projects/6519627653316608/">GOOGLE Summer of Code (GSoc)</a>.</ul>
     <ul> 🚀 Approved FYP Funding from <a href = "https://drive.google.com/file/d/1zqAjIFk0ynvJS15RNdIp--D8FUSG161L/view?usp=sharing">IGNITE(National Grassroot Research Initiative Funding Pakistan)</a>.</ul>
-    <ul> 🤑 Successfully won <a href = "https://www.facebook.com/StacksPakistan/posts/172903454650907">#Stackshack4impact hackathon as DCodX team</a> and qualified to learn Blochain based langauge 'Clarity' from <a href = "https://www.stacks.co/">Stacks<>.</ul>
+    <ul> 🤑 Successfully won <a href = "https://www.facebook.com/StacksPakistan/posts/172903454650907">#Stackshack4impact hackathon as DCodX team</a> and qualified to learn Blochain based langauge 'Clarity' from <a href = "https://www.stacks.co/">Stacks</a>.</ul>
   </list>
 </p>
 <div></div>
