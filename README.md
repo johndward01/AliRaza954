@@ -13,8 +13,8 @@
 
 <br><br>
 
-- I’m currently working on Blockchain DAO projects;
-- I’m getting hands-on other blockchain networks like Solana, Bitcoin Lightning,; 
+- I’m currently working on Blockchain DAO projects.
+- I’m getting hands-on other blockchain networks like Solana, Bitcoin Lightning.
 - I am a Blockchain and smart contract engineer. I have been working on Stacks blockchain over bitcoin and their smart contract language ‘Clarity’ for quite a while and helped different startups to build their products on top of it. Also, in pursuit of getting hands on other blockchain networks, Metaverse and WEB 3.0 frameworks as well.
 <br>
 
